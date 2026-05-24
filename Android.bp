@@ -1,3 +1,5 @@
+// Authors: james34602 and PBone
+//
 android_app_import {
     name: "JamesDSP",
     owner: "james34602",
